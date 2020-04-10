@@ -16,8 +16,8 @@
 
 ## 示例流程<a name="section9321550111417"></a>
 
-**图 1**  给用户授予SES权限流程<a name="fig151171658201514"></a>  
-![](figures/给用户授予SES权限流程.png "给用户授予SES权限流程")
+**图 1**  给用户授予权限流程<a name="fig151171658201514"></a>  
+![](figures/给用户授予权限流程.png "给用户授予权限流程")
 
 1.  <a name="li14580191214399"></a>[创建用户组并授权](https://support.huaweicloud.com/usermanual-iam/iam_03_0001.html)
 
